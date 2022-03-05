@@ -4,7 +4,7 @@
 
 <br/>
 
-Think of a number. 👽 💭
+I WANT 10 LINES OF PASTACOS PYRAMID 👽 💭
 
 ```js
 // I think I need 99 tacos.
