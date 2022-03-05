@@ -7,17 +7,17 @@
 I WANT 10 LINES OF PASTACOS PYRAMID 👽 💭
 
 ```js
-// I think I need 99 tacos.
+// Leave it to me!.
 ```
 
-Give it to the taco machine. 👉🏼 🤖
+Give it to the pastacos machine. 👉🏼 🤖
 
 ```js
 const { tacoparse } = require("tacoparse");
 const wholeLottaTacos = tacoparse(99);
 ```
 
-Profit. ✨ 🌮
+Profit. ✨ 🍝🌮
 
 ``` 
          🌮         
@@ -32,6 +32,3 @@ Profit. ✨ 🌮
 🍝 🍝 🍝 🍝 🍝 🍝 🍝 🍝 🍝 🍝
 ```
 
-<sub>Developed with 🧡 by [sidiousvic](https://www.github.com/sidiousvic)</sub>
-<br/>
-<sub>[Buy him a coffee ☕️](https://ko-fi.com/sidiousvic)</sub>
