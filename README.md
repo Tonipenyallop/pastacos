@@ -1,6 +1,6 @@
 # pastacos
 
-### A utility for parsing integers into tacos. 🌮
+### Creating pastacos pyramid. 🍝🌮
 
 <br/>
 
@@ -14,7 +14,7 @@ Give it to the pastacos machine. 👉🏼 🤖
 
 ```js
 const { pastacos } = require("pastacos");
-pastacos();
+pastacos(n);
 ```
 
 Profit. ✨ 🍝🌮
