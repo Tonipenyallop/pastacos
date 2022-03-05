@@ -9,7 +9,7 @@ function pastacos(n = 10) {
       let weWant = endIdx;
       for (let i = 0; i < 2 * n - 1; i++) {
         str === "🌮" ? (str = "🍝") : (str = "🌮");
-        console.log(str);
+
         if (i == startIdx) isStr = true;
 
         if (isStr && startIdx <= i && weWant > counter) {
@@ -27,9 +27,9 @@ function pastacos(n = 10) {
     }
   }
   const reverse = oneRow(n, 0, n, "");
-  let a = [...reverse].reverse().join(",").replaceAll(",", "");
-
-  return a;
+  return [...reverse].reverse().join(",").replaceAll(",", "");
 }
 
 console.log(pastacos());
+
+module.exports = { pastacos };
